@@ -1,0 +1,2 @@
+class CodeValue < ApplicationRecord
+end
